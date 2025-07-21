@@ -29,7 +29,7 @@ application.
 
 You will be doing your coding in `main.js`. If you take a look at the file, you
 will see that a function, `mimicServerCall()`, is being provided for you. This
-function will "mock" the behavior of a backend server. You will invoke
+function will "mock" the behaviour of a backend server. You will invoke
 `mimicServerCall()` in response to a user action, and the function will randomly
 return either a "success" or "fail" response. Your code will then need to handle
 the response appropriately: updating the appearance of the heart if it returns a
@@ -63,7 +63,7 @@ Here's the specification:
   heart full until you're inside a successful `.then` block.
 
 > Note: The tests will only check for the first part of the specification
-> (adding the `hidden` class). You should verify the rest of the behavior
+> (adding the `hidden` class). You should verify the rest of the behaviour
 > yourself, by checking the page in the browser.
 
 ## Conclusion
